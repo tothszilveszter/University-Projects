@@ -1,0 +1,9 @@
+Breakfast took place for 2 hours 0 minutes and 8 seconds
+Grooming took place for 2 hours 0 minutes and 42 seconds
+Toileting took place for 2 hours 0 minutes and 34 seconds
+Sleeping took place for 131 hours 2 minutes and 31 seconds
+Leaving took place for 3 hours 0 minutes and 44 seconds
+Spare_Time/TV took place for 145 hours 2 minutes and 5 seconds
+Snack took place for 0 hours 0 minutes and 1 seconds
+Showering took place for 1 hours 0 minutes and 9 seconds
+Lunch took place for 5 hours 0 minutes and 31 seconds

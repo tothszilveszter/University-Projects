@@ -1,0 +1,6 @@
+sarmale 8
+hamburger 12
+spaghetti 15
+cola 7
+vin 10
+bere 7

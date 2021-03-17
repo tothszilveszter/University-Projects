@@ -1,0 +1,140 @@
+2011-12-06
+Breakfast -> appears 1 times!
+Grooming -> appears 4 times!
+Toileting -> appears 3 times!
+Sleeping -> appears 1 times!
+Spare_Time/TV -> appears 5 times!
+Snack -> appears 1 times!
+Showering -> appears 1 times!
+Lunch -> appears 1 times!
+
+2011-12-05
+Breakfast -> appears 1 times!
+Toileting -> appears 5 times!
+Grooming -> appears 6 times!
+Sleeping -> appears 1 times!
+Leaving -> appears 2 times!
+Spare_Time/TV -> appears 7 times!
+Snack -> appears 1 times!
+Showering -> appears 1 times!
+Lunch -> appears 1 times!
+
+2011-12-04
+Breakfast -> appears 1 times!
+Grooming -> appears 2 times!
+Toileting -> appears 4 times!
+Sleeping -> appears 1 times!
+Leaving -> appears 1 times!
+Spare_Time/TV -> appears 6 times!
+Snack -> appears 2 times!
+Showering -> appears 1 times!
+
+2011-12-03
+Breakfast -> appears 1 times!
+Grooming -> appears 3 times!
+Toileting -> appears 2 times!
+Sleeping -> appears 1 times!
+Leaving -> appears 1 times!
+Spare_Time/TV -> appears 4 times!
+Showering -> appears 1 times!
+
+2011-12-09
+Breakfast -> appears 1 times!
+Toileting -> appears 2 times!
+Grooming -> appears 5 times!
+Sleeping -> appears 1 times!
+Leaving -> appears 2 times!
+Spare_Time/TV -> appears 6 times!
+Showering -> appears 1 times!
+
+2011-12-08
+Breakfast -> appears 1 times!
+Toileting -> appears 1 times!
+Grooming -> appears 5 times!
+Sleeping -> appears 1 times!
+Leaving -> appears 1 times!
+Spare_Time/TV -> appears 4 times!
+Showering -> appears 1 times!
+
+2011-11-29
+Breakfast -> appears 1 times!
+Grooming -> appears 3 times!
+Toileting -> appears 4 times!
+Sleeping -> appears 1 times!
+Leaving -> appears 1 times!
+Spare_Time/TV -> appears 6 times!
+Snack -> appears 1 times!
+Showering -> appears 1 times!
+Lunch -> appears 1 times!
+
+2011-12-07
+Breakfast -> appears 1 times!
+Toileting -> appears 6 times!
+Grooming -> appears 5 times!
+Sleeping -> appears 1 times!
+Leaving -> appears 1 times!
+Spare_Time/TV -> appears 8 times!
+Snack -> appears 2 times!
+Showering -> appears 1 times!
+Lunch -> appears 1 times!
+
+2011-11-28
+Breakfast -> appears 1 times!
+Grooming -> appears 2 times!
+Toileting -> appears 3 times!
+Sleeping -> appears 1 times!
+Leaving -> appears 1 times!
+Spare_Time/TV -> appears 4 times!
+Snack -> appears 1 times!
+Showering -> appears 1 times!
+Lunch -> appears 1 times!
+
+2011-11-30
+Breakfast -> appears 1 times!
+Grooming -> appears 2 times!
+Toileting -> appears 6 times!
+Sleeping -> appears 1 times!
+Leaving -> appears 1 times!
+Spare_Time/TV -> appears 8 times!
+Snack -> appears 2 times!
+Showering -> appears 1 times!
+Lunch -> appears 1 times!
+
+2011-12-02
+Breakfast -> appears 1 times!
+Toileting -> appears 3 times!
+Grooming -> appears 4 times!
+Sleeping -> appears 1 times!
+Spare_Time/TV -> appears 7 times!
+Snack -> appears 1 times!
+Showering -> appears 1 times!
+Lunch -> appears 1 times!
+
+2011-12-01
+Breakfast -> appears 1 times!
+Toileting -> appears 2 times!
+Grooming -> appears 3 times!
+Sleeping -> appears 1 times!
+Leaving -> appears 1 times!
+Spare_Time/TV -> appears 6 times!
+Showering -> appears 1 times!
+Lunch -> appears 1 times!
+
+2011-12-11
+Breakfast -> appears 1 times!
+Toileting -> appears 2 times!
+Grooming -> appears 3 times!
+Sleeping -> appears 1 times!
+Spare_Time/TV -> appears 3 times!
+Showering -> appears 1 times!
+Lunch -> appears 1 times!
+
+2011-12-10
+Breakfast -> appears 1 times!
+Toileting -> appears 1 times!
+Grooming -> appears 4 times!
+Sleeping -> appears 1 times!
+Leaving -> appears 2 times!
+Spare_Time/TV -> appears 3 times!
+Showering -> appears 1 times!
+

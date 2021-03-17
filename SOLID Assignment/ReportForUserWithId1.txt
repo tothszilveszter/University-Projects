@@ -1,0 +1,19 @@
+Printed clients and accounts at 20:01:13
+Printed clients and accounts at 20:11:34
+Transferred money from account:6 to account:1 at 20:12:03
+Printed clients and accounts at 20:12:07
+Printed clients and accounts at 20:21:18
+Transferred money from account:1 to account:6 at 20:23:19
+Printed clients and accounts at 20:23:21
+Printed clients and accounts at 20:23:26
+Client:7 payed at their desk a(n) gas bill at 20:23:55
+Printed clients and accounts at 09:32:24
+Updated information at client with ID: at 11:48:57
+Added client Szesz with account12 at 12:10:42
+Updated account information at client:1 at account with ID:null at 12:14:30
+Added client Szesz with account14 at 12:16:29
+Added client Szesz with account15 at 12:16:55
+Printed clients and accounts at 12:47:57
+Printed clients and accounts at 12:50:09
+Deleted a client at 12:50:28
+Printed clients and accounts at 13:09:19

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head th:replace="fragmentsAdmin :: head"></head>
+<body class="container">
+
+<header th:replace="fragmentsAdmin :: header"></header>
+
+<p th:text="${errorMsg}" style="color:red"></p>
+<!--<form method="post" action="/events/create">-->
+<form method="post">
+
+    <div class="form-group">
+        <label>To-be-updated employee ID
+            <input id = "user.id" class = "form-control" th:field="${user.id}"/>
+<!--            <input type="text" name="${user.id}" class="form-control">-->
+        </label>
+    </div>
+
+    <div class="form-group">
+        <label>New email
+            <input type="text" name="${user.userEmail}" class="form-control">
+        </label>
+    </div>
+
+    <div class="form-group">
+        <label>New user type
+            <select th:field="${user.userType}" class="form-control">
+                <option th:each="type : ${userTypes}"
+                        th:value="${type.name()}"
+                        th:text="${type.displayName}"
+                ></option>
+            </select>
+        </label>
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Update employee" class="btn btn-success">
+    </div>
+
+</form>
+
+</body>
+</html>

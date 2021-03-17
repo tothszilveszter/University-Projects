@@ -1,0 +1,4 @@
+Order ID: 801999976
+Table num: 7
+Name: bere; Quantity: 12; Price: 7
+With a total payment of: 84

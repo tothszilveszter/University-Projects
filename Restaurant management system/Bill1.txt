@@ -1,0 +1,4 @@
+Order ID: 744274701
+Table num: 5
+Name: vin; Quantity: 2; Price: 10
+With a total payment of: 20
