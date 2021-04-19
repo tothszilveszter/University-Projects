@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"Objects","l":"Clientul"},{"p":"Objects","l":"Cumpara"},{"p":"DAO","l":"DeleteDAO"},{"p":"DAO","l":"InsertDAO"},{"p":"Main","l":"MainClass"},{"p":"Connection","l":"MySQLConnection"},{"p":"DAO","l":"OrderDAO"},{"p":"Objects","l":"Produs"},{"p":"DAO","l":"ReportDAO"},{"p":"Validator","l":"Validator"}]
